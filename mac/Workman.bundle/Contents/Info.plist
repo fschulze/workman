@@ -15,6 +15,13 @@
 		<key>TISIntendedLanguage</key>
 		<string>en-US</string>
 	</dict>
+	<key>KLInfo_Workman-Ctrl</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.workman-ctrl.workman-ctrl</string>
+		<key>TISIntendedLanguage</key>
+		<string>en-US</string>
+	</dict>
 	<key>KLInfo_Workman Extended</key>
 	<dict>
 		<key>TISInputSourceID</key>
